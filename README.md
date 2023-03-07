@@ -1,8 +1,18 @@
-# test-code-with-quarkus
+# Code Tests with Quarkus Framework and JUnit 5
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/ .
+
+This is a code for the Udemy Course from Vinicius Oliveira instructor.
+It's an introduction about Unit Tests and Integration Tests with the Java, Quarkus and JUnit.
+
+The link for the course:
+https://www.udemy.com/course/quarkus-testes-unitarios-com-junit/
+
+
+
+## Quarkus steps to run the app
 
 ## Running the application in dev mode
 
